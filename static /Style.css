@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>HydroNest</title>
+<link rel="stylesheet" href="style.css"></head><body>
+<div class="app">
+<header><h1>HydroNest</h1><p id="clock"></p>
+<div class="bar">
+<button id="logout">Logout</button>
+<button id="lang">தமிழ்</button><button id="drain">🚿 -25%</button><button id="jump">⏩ 11 PM</button><button id="reset">Reset</button>
+</div></header>
+<main id="main"></main>
+<nav id="nav"></nav>
+</div>
+<script src="script.js"></script></body></html>
